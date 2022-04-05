@@ -47,7 +47,13 @@ form.addEventListener('submit', (e) => {
     }
 
     // console.log('submited', blogBost)
+    const posts =[blogBost]
+    console.log('sunmitted', posts)
 })
 
 
 // console.log(getAuthor('armstrongsouljah@gmail.com'))
+
+ 
+
+
